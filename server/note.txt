@@ -1,0 +1,1 @@
+npm i express mongoose nodemon jsonwebtoken cors dotenv slugify express-jwt morgan --save
